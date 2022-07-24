@@ -1,0 +1,1 @@
+My answers for the [type challenges](https://github.com/type-challenges/type-challenges) repository
